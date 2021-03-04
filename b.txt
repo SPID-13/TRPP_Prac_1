@@ -1,1 +1,1 @@
-This is file B, not A
+This is file B, not A and C
